@@ -2,6 +2,12 @@
 
 Event management app: Spring Boot API + React (Vite) + PostgreSQL + ActiveMQ.
 
+For testing purposes, the following users can be used:
+| Email             | Pass | Role    |
+| ----------------- | ---- | ------- |
+| user@gmail.com    | 1234 | Regular |
+| admin@example.com | 1234 | Admin   |
+
 ## Option A — Everything in Docker
 
 ### Prerequisites
